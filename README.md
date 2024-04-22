@@ -50,6 +50,14 @@ make clean
 - Fortran Compiler (e.g., `gfortran`)
 - Jupyter Notebook (for visualization, plotting, and analysis)
 
+## Contact
+
+For inquiries or further information, please contact Vikentiy Pashuk at [vikentiy.pashuk@gmail.com](mailto:vikentiy.pashuk@gmail.com).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Note
 
 Ensure you have the necessary permissions to execute shell scripts and compile Fortran code.
